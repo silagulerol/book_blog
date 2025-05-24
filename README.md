@@ -1,18 +1,22 @@
 
----
- `python_problem_sets_solutions`
-
 ```markdown
-# MIT Python Problem Sets – Solutions
+# Book Blog
 
-This repository includes solutions to problem sets from MIT's Introduction to Computer Science and Programming using Python (6.0001 / 6.0002).
+This project is a web-based book blogging platform in early development. It aims to allow users to browse, read, and write reviews or reflections on books.
 
+**Note:** The project is under development and not complete. Functionality and layout may change.
 
-## Features
-- Problem-solving in Python
-- Designed for MIT OCW assignments
+## Planned Features
+- Static pages or dynamic content for book listings
+- Blog-style entries for personal book reviews
+- Contact or comment functionality
+
+## Technologies
+- HTML / CSS / JavaScript
+- Possibly backend or CMS integration in the future
 
 ## Getting Started
+
 ```bash
-git clone https://github.com/silagulerol/python_problem_sets_solutions.git
-cd python_problem_sets_solutions
+git clone https://github.com/silagulerol/book_blog.git
+cd book_blog
